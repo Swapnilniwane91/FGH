@@ -1,0 +1,9 @@
+{
+    "host": "192.168.175.111",
+    "port": "5432",
+    "database": "Smart_ESP_Dev",
+    "user": "postgres",
+    "password": "postgres",
+    "max": "10",
+    "idleTimeoutMillis": "30000"
+}

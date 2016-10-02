@@ -1,0 +1,5 @@
+{
+    "nodeapi": "Your_Server_API_Endpoint",
+    "zport": "Your_Port",
+    "uiwebsite": "Your_Client_API_Endpoint"
+}
